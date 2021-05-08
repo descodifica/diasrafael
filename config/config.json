@@ -1,0 +1,19 @@
+{
+  "development": {
+    "username": "root",
+    "password": "12345678",
+    "database": "diasrafael",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "logging": true
+  },
+  "production": {
+    "username": "diasrafael",
+    "password": "r1478953DDR",
+    "database": "diasrafael",
+    "host": "mysql743.umbler.com",
+    "port": 41890,
+    "dialect": "mysql",
+    "logging": true
+  }
+}

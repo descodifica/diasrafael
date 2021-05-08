@@ -1,0 +1,67 @@
+{
+  "editor.detectIndentation": false,
+  "editor.insertSpaces": true,
+  "editor.tabSize": 2,
+  "editor.renderWhitespace": "all",
+  "editor.dragAndDrop": false,
+  "editor.minimap.enabled": true,
+  "editor.rulers": [
+    100
+  ],
+  "eslint.alwaysShowStatus": true,
+  "eslint.debug": true,
+  "eslint.format.enable": true,
+  "eslint.lintTask.enable": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "editor.fontSize": 14,
+  "workbench.tree.indent": 15,
+  "gitflow4code.features": [
+    {
+      "name": "feature/pre",
+      "base": "develop"
+    },
+    {
+      "name": "feature/doc",
+      "base": "develop"
+    }
+  ],
+  "cSpell.words": [
+    "CRUD",
+    "Permissionamento",
+    "desenvolvedor",
+    "desenvolvedores",
+    "engessamento",
+    "framework",
+    "gerenciar",
+    "hasheamento",
+    "libera",
+    "liberação",
+    "o",
+    "populado",
+    "registrar",
+    "registro",
+    "registros"
+  ],
+  "cSpell.language": "pt",
+  "cSpell.ignoreWords": [
+    "production",
+    "starttls"
+  ],
+  "sqltools.connections": [
+    {
+      "mysqlOptions": {
+        "authProtocol": "default"
+      },
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 3306,
+      "driver": "MySQL",
+      "name": "eudiasrafael",
+      "username": "root",
+      "password": "12345678",
+      "database": "eudiasrafael"
+    }
+  ]
+}
